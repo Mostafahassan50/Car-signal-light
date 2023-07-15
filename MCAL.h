@@ -4,7 +4,7 @@
 #define MCAL_H_
 
 #define A 0x30
-
+// new line add
 
 struct portname
 {
